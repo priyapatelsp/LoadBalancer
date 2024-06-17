@@ -4,7 +4,7 @@ This endeavor involved developing a customized load balancer as a part of <a hre
 This load balancer orchestrates the routing of incoming traffic to multiple servers, ensuring optimal distribution among those capable of fulfilling the requests.
 
 <h1>Get started </h1>
-This tool is in NodeJs , so please ensure that you have latest Node version installed in your device 
+This tool uses NodeJs , so please ensure that you have latest Node version installed in your device 
 <br><br>
 
 step 1: git clone https://github.com/priyapatelsp/LoadBalancer.git
